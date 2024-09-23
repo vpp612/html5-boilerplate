@@ -5,8 +5,8 @@
 #ignore file
 /credentials.py
 
-#Ignore folder
+#Ignore the whole folder with all files in it
 #text/
 
-#Ignore selectively
+#Ignore selectively, in this case only *.txt files
 text/*.txt
